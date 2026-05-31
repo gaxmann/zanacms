@@ -1,0 +1,14 @@
+__UNUSED/
+conf.php
+keys.php
+isdev.txt
+zpcache/
+*.log
+*.tar.gz
+.DS_Store
+Thumbs.db
+*.zip
+TODO.txt
+structure-of-docs.md
+code-rules.md
+_WIKI/
