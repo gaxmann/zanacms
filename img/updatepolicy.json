@@ -1,0 +1,11 @@
+{
+	"stables": [
+		{"version": "2.4.71", "recommended": true, "note": "solide überarbeitung, entfernung überflüssiger maint fns"},
+		{"version": "2.4.68", "recommended": false, "note": "zu viele struktuelle änderungen in neuster version, daher alle false"},
+		{"version": "2.4.56", "recommended": false, "note": ""},
+		{"version": "2.4.44", "recommended": false, "note": ""},
+		{"version": "2.2.29", "recommended": false, "note": ""},
+		{"version": "2.2.15", "recommended": false, "note": ""},
+		{"version": "2.1.100", "recommended": false, "note": ""}
+	]
+}
