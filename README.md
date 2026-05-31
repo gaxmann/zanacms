@@ -123,5 +123,3 @@ If you notice rendering problems, missing CSS rules or layout inconsistencies, f
 ## Licence / Status
 
 ZANACMS is source-available software. It is not OSI-certified open source. **Private, educational and non-commercial use is free of charge.** Commercial use requires a commercial site licence, valid for one productive website and all releases within the same major version. See [`LICENSE`](LICENSE) and [`LICENSE-FAQ.md`](docs/LICENSE-FAQ.md).
-
-Maintained. In production use since 2014.
