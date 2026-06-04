@@ -1,0 +1,17 @@
+__UNUSED/
+conf.php
+keys.php
+isdev.txt
+zpcache/
+/docs
+*.log
+*.tar.gz
+.DS_Store
+Thumbs.db
+*.patch
+*.zip
+TODO.txt
+structure-of-docs.md
+code-rules.md
+CHANGELOG-PRIVATE.md
+/zanacms-docs
