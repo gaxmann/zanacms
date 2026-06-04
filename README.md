@@ -54,7 +54,7 @@ For MD mode and Rich mode, copy the matching example page files from `/pages/exa
 
 The `/admin/` directory contains the optional admin tools. Rich mode needs it for the editor workflow; MD mode and PHP mode only need it for media gallery or optional editor.
 
-URL rewrite is prepared but disabled by default. For details, see [`README-INTRO.md`](docs/README-INTRO.md).
+URL rewrite is prepared but disabled by default. The full documentation is maintained in the separate [`zanacms-docs`](https://gaxmann.github.io/zanacms-docs/) documentation source.
 
 _Actively tested with PHP 7.4 and 8.4. GD and json are only required for image uploads; iconv improves filename transliteration during uploads._
 
@@ -113,13 +113,11 @@ If you notice rendering problems, missing CSS rules or layout inconsistencies, f
 
 ## More information
 
-* [`README-INTRO.md`](docs/README-INTRO.md) — quick start, modes, file structure and layout CSS
-* [`README-INTERFACES.md`](docs/README-INTERFACES.md) — public interfaces, footer syntax, CSS customisation and extension points
-* [`LICENSE-FAQ.md`](docs/LICENSE-FAQ.md) — practical licence questions
-* [`THIRD-PARTY-NOTICES.md`](layout/THIRD-PARTY-NOTICES.md) — third-party component and theme notices
+* [ZANACMS documentation](https://gaxmann.github.io/zanacms-docs/) — help pages and full guide
+* [`zanacms-docs`](https://github.com/gaxmann/zanacms-docs) — documentation source repository
 
 ---
 
 ## Licence / Status
 
-ZANACMS is source-available software. It is not OSI-certified open source. **Private, educational and non-commercial use is free of charge.** Commercial use requires a commercial site licence, valid for one productive website and all releases within the same major version. See [`LICENSE`](LICENSE) and [`LICENSE-FAQ.md`](docs/LICENSE-FAQ.md).
+ZANACMS is source-available software. It is not OSI-certified open source. **Private, educational and non-commercial use is free of charge.** Commercial use requires a commercial site licence, valid for one productive website and all releases within the same major version. See [`LICENSE`](LICENSE) and [`LICENSE-FAQ.md`](https://gaxmann.github.io/zanacms-docs/guide/license-faq/).
