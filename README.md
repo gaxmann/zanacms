@@ -67,7 +67,7 @@ Layouts are selected as `<family>/<design>` and are stored in `/layout/<family>/
 Included layouts:
 
 * `html/water` — water.css
-* `html/pico` — Pico CSS
+* `html/just-the-docs` — just-the-docs jekyll theme
 * `wondercms/sky` — WonderCMS Sky theme
 
 Additional designs can be placed under a matching layout family, for example WordPress themes, Editorial, Paradigm Shift or other external designs. Optional design files are **not** included in the ZANACMS package. 12 tested snapshots are kept in a separate repository:
@@ -85,6 +85,7 @@ The optional external designs are not part of the ZANACMS source code, are not c
 Live demos are available here:
 
 * [ZANACMS demo with Water.css layout](https://axmann.eu/sunclock.php?lg=en&lay=html%2Fwater)
+* [Just-the-docs layout](https://axmann.eu/sunclock.php?lg=en&lay=html%2Fjust-the-docs)
 * [WonderCMS/Sky layout](https://axmann.eu/sunclock.php?lg=en&lay=wondercms/sky)
 * [Editorial layout](https://axmann.eu/sunclock.php?lg=en&lay=editorial)
 * [Paradigm Shift layout](https://axmann.eu/sunclock.php?lg=en&lay=paradigm-shift)
