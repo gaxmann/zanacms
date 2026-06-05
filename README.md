@@ -1,10 +1,10 @@
 # ZANACMS – Website Theme Engine
 
-**Small, low-maintenance websites — multilingual, design-flexible, database-free**
+**For smaller websites — multilingual, design-flexible, database-free**
 
-ZANACMS V2 is a lightweight PHP CMS for small, long-lasting websites. It has no database, no login system by default and no large framework dependency.
+ZANACMS is not designed to compete with large CMS platforms, headless systems or modern JavaScript frameworks. It is built for a different problem: small and medium-sized websites that should remain easy to maintain, easy to move and easy to keep running for many years.
 
-Complete websites are easy to back up, move and restore; setup is simple, the runtime is small, and maintenance stays predictable.
+Most modern web stacks optimise for large applications and rapid feature development. ZANACMS instead focuses on long-term stability and straightforward deployment on ordinary PHP hosting — no database, no build pipeline, no    continuous framework maintenance.
 
 _In production use since 2014._
 
@@ -12,7 +12,7 @@ _In production use since 2014._
 
 ## Why ZANACMS?
 
-Large CMS platforms often create more overhead than small stable websites need: plugin updates, security issues, breaking changes and ongoing system care. ZANACMS is built for websites that behave like static sites while still being generated dynamically.
+ZANACMS is built for websites that behave like static sites while still being generated dynamically. If your project needs complex web applications, user accounts or large-scale content management, other platforms will serve you better. If it needs a stable, low-maintenance website that keeps working for years — ZANACMS is designed for exactly that.
 
 * **Fast on shared hosting** — excellent page generation times
 * **No database** — plain files, simple backups and easy moves
