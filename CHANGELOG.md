@@ -10,21 +10,25 @@ ZANACMS V2 is the first public release of the new ZANACMS code line. It combines
 
 ### Highlights
 
-* Two additional operating modes: MD mode for Markdown-based sites and Rich mode for editor-maintained page content, alongside the established PHP mode for developer-controlled PHP pages
-* Shared layout system using `<family>/<design>` layout names, with included `html/water`, `html/just-the-docs[.dark]` and `wondercms/sky` layouts and support for additional external design families, including WordPress-based layouts from the earlier ZP line
-* Clearer package structure with separate areas for configuration, admin tools and pages, alongside the established runtime, image and layout areas (`/__config`, `/admin`, `/pages`, `/zp`, `/img`, `/layout`)
-* Built-in multilingual site handling across PHP, MD and Rich mode, based on matured ideas from the earlier ZANACMS work
-* Central internal link and language handling for PHP, MD and Rich content, including `zlink()`, `zhref()` and page-language support
-* Generated `sitemap.xml` support for public, indexable pages, including multilingual `hreflang` alternates and `lastmod` dates
-* Optional URL rewrite support in the configuration and example `.htaccess` files
-* Rich text editing with visual editing, HTML source editing, page-image selection, page management and navigation editing
-* Markdown editing with toolbar support, ZMD links/images, variables and front matter support for PHP pages and layout images
-* Media centre for browsing, uploading, inserting and deleting images
-* Device-cookie management for access to optional admin tools without introducing a public login system
-* Optional admin tools for system status, settings with design selection and sidebar support, backup workflow, GitHub-based update workflow and one-step timeshift rollback, hidden by default
-* HTML cache support for supported layout generators to keep generated pages fast while preserving a small runtime
-* Documented public customisation interfaces for footer tokens, page variables, HTML layouts and local layout generators, alongside established configuration and CSS overrides
-* ZANACMS Community License model for private, educational and non-commercial use, with commercial site licensing for productive commercial websites
+- Three operating modes: PHP mode for developer-controlled pages, MD mode for Markdown-based sites, Rich mode for editor-maintained page content
+- Database-free operation, plain-file structure, no build pipeline
+- Built-in multilingual handling across all three modes, including central link and language functions (zlink(), zhref()) and page-language support
+- Shared layout system with <family>/<design> naming; included layouts: html/water, html/just-the-docs[.dark], wondercms/sky; support for additional external design families including WordPress-based layouts
+- Generated sitemap.xml with multilingual hreflang alternates and lastmod dates
+- Optional URL rewrite support
+
+- Rich mode: visual editing, easy link and image support, HTML source editing
+- MD mode: toolbar support, easy link and image support, variables and front matter, including support for PHP pages
+- Media centre for browsing, uploading, inserting and deleting images
+
+- Admin exposure levels from easy mode to full option visibility
+- Optional service access for agencies and maintainers, including preview of lower admin exposure levels
+- Device-cookie access management for admin tools without a public login system
+- Optional admin tools for system status, backup, GitHub-based update workflow and one-step timeshift rollback, hidden by default
+- Documented public customisation interfaces: footer tokens, page variables, HTML layouts, local layout generators, configuration and CSS overrides
+
+- Clearer package structure: /__config, /admin, /pages, /zp, /img, /layout
+- ZANACMS Community License: free for private, educational and non-commercial use; commercial site licence for commercial production sites
 
 ---
 

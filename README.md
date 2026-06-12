@@ -17,6 +17,7 @@ ZANACMS is built for websites that behave like static sites while still being ge
 * **Fast on shared hosting** — excellent page generation times
 * **No database** — plain files, simple backups and easy moves
 * **No public login system by default** — small attack surface
+* **Service login configurable** — for agencies and web administrators
 * **Multilingual without plugins** — multiple languages are built in
 * **Design-flexible** — included layouts and optional external designs
 * **Three working modes** — PHP pages, Markdown files or Rich text editing
@@ -41,8 +42,8 @@ ZANACMS can run in **PHP mode**, **MD mode** or **Rich mode**. All three modes u
 | Mode | Use case |
 | --- | --- |
 | **PHP mode** | Pages prepare their own page data directly in PHP. Use this when you know PHP and want full control. |
-| **MD mode** | Pages are written as Markdown files, edited directly or through the small built-in Markdown editor. |
-| **Rich mode** | Page content is maintained through the small built-in rich text editor. |
+| **MD mode** | Pages are written as Markdown files, edited directly or through the built-in Markdown editor. |
+| **Rich mode** | Page content is maintained through the built-in rich text editor. |
 
 ---
 
@@ -86,11 +87,12 @@ Live demos are available here:
 
 * [ZANACMS demo with Water.css layout](https://axmann.eu/sunclock.php?lg=en&lay=html%2Fwater)
 * [Just-the-docs layout](https://axmann.eu/sunclock.php?lg=en&lay=html%2Fjust-the-docs)
-* [WonderCMS/Sky layout](https://axmann.eu/sunclock.php?lg=en&lay=wondercms/sky)
+* [WonderCMS/Sky layout](https://axmann.eu/sunclock.php?lg=en&lay=wondercms%2Fsky)
+* [Z-Airy](https://axmann.eu/sunclock.php?lg=en&lay=html%2Fz-airy)
 * [Editorial layout](https://axmann.eu/sunclock.php?lg=en&lay=editorial)
 * [Paradigm Shift layout](https://axmann.eu/sunclock.php?lg=en&lay=paradigm-shift)
-* [WordPress/Graphy layout](https://axmann.eu/sunclock.php?lg=en&lay=wordpress/graphy)
-* [WordPress/Syntax layout](https://axmann.eu/sunclock.php?lg=en&lay=wordpress/syntax)
+* [WordPress/Graphy layout](https://axmann.eu/sunclock.php?lg=en&lay=wordpress%2Fgraphy)
+* [WordPress/Syntax layout](https://axmann.eu/sunclock.php?lg=en&lay=wordpress%2Fsyntax)
 
 ---
 
