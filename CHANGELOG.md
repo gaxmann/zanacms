@@ -4,6 +4,11 @@ This file contains selected notable changes for ZANACMS. It is not intended to b
 
 ---
 
+## [2.0.6.116] - 2026-08-19
+
+### Fixed
+- Extern links in editor
+
 ## [2.0.6] - 2026-06-20 (First public ZANACMS V2 release)
 
 ZANACMS V2 is the first public release of the new ZANACMS code line. It combines the established PHP-page workflow with MD mode, Rich mode and a shared runtime, layout and language system
