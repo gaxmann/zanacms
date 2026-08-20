@@ -21,6 +21,7 @@ ZANACMS is built for websites that behave like static sites while still being ge
 * **Multilingual without plugins** — multiple languages are built in
 * **Design-flexible** — included layouts and optional external designs
 * **Three working modes** — PHP pages, Markdown files or Rich text editing
+* **Github Update** – You can manually start a Github update
 * **Small footprint** – core ZIP (1 design, FTP-managed): ca. **40 KiB**; full package ZIP (5 generators, 3 designs, two editors, 7-language admin, jQuery, etc.): ca. **400 KiB**
 
 ⚡ _In a comparison with a standard WordPress site containing similar content, ZANACMS was over **150× faster** and used over **15× less RAM** (0.5–2 ms vs. 150–400 ms; 1 MiB vs. 6–32 MiB; both on shared hosting)._
