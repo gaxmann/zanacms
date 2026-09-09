@@ -118,7 +118,6 @@ If you notice rendering problems, missing CSS rules or layout inconsistencies, f
 ## More information
 
 * [ZANACMS documentation](https://gaxmann.github.io/zanacms-docs/) — help pages and full guide
-* [`zanacms-docs`](https://github.com/gaxmann/zanacms-docs) — documentation source repository
 
 ---
 
